@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/#netbeans</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=%23netbeans" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=%23netbeans&amp;lang=en&amp;rpp=100" rel="self"/>
+  <title>#netbeans - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?lang=en&amp;q=%23netbeans&amp;rpp=100&amp;since_id=43943829296005120" rel="refresh"/>
+  <twitter:warning>adjusted since_id to 41422213731196928 (), requested since_id was older than allowedsince_id removed for pagination.</twitter:warning>
+  <updated>2011-03-05T05:51:02Z</updated>
+  <openSearch:itemsPerPage>100</openSearch:itemsPerPage>
+  <openSearch:language>en</openSearch:language>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?lang=en&amp;max_id=43943829296005120&amp;page=2&amp;q=%23netbeans&amp;rpp=100" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:43911377227755521</id>
+    <published>2011-03-05T05:51:02Z</published>
+    <link type="text/html" href="http://twitter.com/nrcpts/statuses/43911377227755521" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-05T05:51:02Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1151565712/198436690_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>nrcpts (Andri Burman)</name>
+      <uri>http://twitter.com/nrcpts</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43851891154763776</id>
+    <published>2011-03-05T01:54:40Z</published>
+    <link type="text/html" href="http://twitter.com/datafront/statuses/43851891154763776" rel="alternate"/>
+    <title>#JBoss integration with #netbeans rcp: REST or JBoss Remoting? That is the question.</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23JBoss&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#JBoss');&quot;&gt;#JBoss&lt;/a&gt; integration with &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt; rcp: REST or JBoss Remoting? That is the question.</content>
+    <updated>2011-03-05T01:54:40Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1238360960/HiRes_5648365106088_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>datafront (Rick Kilcoyne)</name>
+      <uri>http://twitter.com/datafront</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43822800766648321</id>
+    <published>2011-03-04T23:59:04Z</published>
+    <link type="text/html" href="http://twitter.com/shahkartik/statuses/43822800766648321" rel="alternate"/>
+    <title>Heard today from a co-worker that is he moving from #Eclipse to #Netbeans #IDEWars</title>
+    <content type="html">Heard today from a co-worker that is he moving from &lt;a href=&quot;http://search.twitter.com/search?q=%23Eclipse&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Eclipse');&quot;&gt;#Eclipse&lt;/a&gt; to &lt;a href=&quot;http://search.twitter.com/search?q=%23Netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Netbeans');&quot;&gt;&lt;b&gt;#Netbeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23IDEWars&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#IDEWars');&quot;&gt;#IDEWars&lt;/a&gt;</content>
+    <updated>2011-03-04T23:59:04Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/894825551/7490625_N04_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>shahkartik (shahkartik)</name>
+      <uri>http://twitter.com/shahkartik</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43799837396840448</id>
+    <published>2011-03-04T22:27:49Z</published>
+    <link type="text/html" href="http://twitter.com/wojtha/statuses/43799837396840448" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T22:27:49Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/71595147/060826-0049x_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>wojtha (Vojt&#283;ch Kus&#253;)</name>
+      <uri>http://twitter.com/wojtha</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43797190392553472</id>
+    <published>2011-03-04T22:17:18Z</published>
+    <link type="text/html" href="http://twitter.com/mrquinta/statuses/43797190392553472" rel="alternate"/>
+    <title>RT @beandev: JavaFXDev: NetBeans Platform with JavaFX 2.0ea http://bit.ly/ftm1dv #beta #javafx #netbeans</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/beandev&quot;&gt;@beandev&lt;/a&gt;: JavaFXDev: NetBeans Platform with JavaFX 2.0ea &lt;a href=&quot;http://bit.ly/ftm1dv&quot;&gt;http://bit.ly/ftm1dv&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23beta&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#beta');&quot;&gt;#beta&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23javafx&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#javafx');&quot;&gt;#javafx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-03-04T22:17:18Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1250103672/Captura_de_tela_2011-02-20__s_23.04.44_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.aljoscha-rittner.de/blog&quot; rel=&quot;nofollow&quot;&gt;WordpresTweetPost&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>mrquinta (Marcelo Quinta)</name>
+      <uri>http://twitter.com/mrquinta</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43776562344108032</id>
+    <published>2011-03-04T20:55:20Z</published>
+    <link type="text/html" href="http://twitter.com/bienator/statuses/43776562344108032" rel="alternate"/>
+    <title>RT @beandev: JavaFXDev: NetBeans Platform with JavaFX 2.0ea http://bit.ly/ftm1dv #beta #javafx #netbeans</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/beandev&quot;&gt;@beandev&lt;/a&gt;: JavaFXDev: NetBeans Platform with JavaFX 2.0ea &lt;a href=&quot;http://bit.ly/ftm1dv&quot;&gt;http://bit.ly/ftm1dv&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23beta&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#beta');&quot;&gt;#beta&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23javafx&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#javafx');&quot;&gt;#javafx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-03-04T20:55:20Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/217123186/Pink_floyd_the_division_bell_front-308_normal.PNG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.aljoscha-rittner.de/blog&quot; rel=&quot;nofollow&quot;&gt;WordpresTweetPost&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>bienator (Michael Bien)</name>
+      <uri>http://twitter.com/bienator</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43751888058990592</id>
+    <published>2011-03-04T19:17:17Z</published>
+    <link type="text/html" href="http://twitter.com/hansolo_/statuses/43751888058990592" rel="alternate"/>
+    <title>RT @beandev: JavaFXDev: NetBeans Platform with JavaFX 2.0ea http://bit.ly/ftm1dv #beta #javafx #netbeans</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/beandev&quot;&gt;@beandev&lt;/a&gt;: JavaFXDev: NetBeans Platform with JavaFX 2.0ea &lt;a href=&quot;http://bit.ly/ftm1dv&quot;&gt;http://bit.ly/ftm1dv&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23beta&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#beta');&quot;&gt;#beta&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23javafx&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#javafx');&quot;&gt;#javafx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-03-04T19:17:17Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1165444216/20354b6a-f333-43f4-98d0-515c938aeae9_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.aljoscha-rittner.de/blog&quot; rel=&quot;nofollow&quot;&gt;WordpresTweetPost&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>hansolo_ (Gerrit Grunwald)</name>
+      <uri>http://twitter.com/hansolo_</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43746478732230656</id>
+    <published>2011-03-04T18:55:47Z</published>
+    <link type="text/html" href="http://twitter.com/marcelocuin/statuses/43746478732230656" rel="alternate"/>
+    <title>RT @beandev: JavaFXDev: NetBeans Platform with JavaFX 2.0ea http://bit.ly/ftm1dv #beta #javafx #netbeans</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/beandev&quot;&gt;@beandev&lt;/a&gt;: JavaFXDev: NetBeans Platform with JavaFX 2.0ea &lt;a href=&quot;http://bit.ly/ftm1dv&quot;&gt;http://bit.ly/ftm1dv&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23beta&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#beta');&quot;&gt;#beta&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23javafx&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#javafx');&quot;&gt;#javafx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-03-04T18:55:47Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/244576519/ma1_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.aljoscha-rittner.de/blog&quot; rel=&quot;nofollow&quot;&gt;WordpresTweetPost&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>marcelocuin (Marcelo Cuin)</name>
+      <uri>http://twitter.com/marcelocuin</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43745936148664321</id>
+    <published>2011-03-04T18:53:38Z</published>
+    <link type="text/html" href="http://twitter.com/javafx4you/statuses/43745936148664321" rel="alternate"/>
+    <title>RT @beandev: JavaFXDev: NetBeans Platform with JavaFX 2.0ea http://bit.ly/ftm1dv #beta #javafx #netbeans</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/beandev&quot;&gt;@beandev&lt;/a&gt;: JavaFXDev: NetBeans Platform with JavaFX 2.0ea &lt;a href=&quot;http://bit.ly/ftm1dv&quot;&gt;http://bit.ly/ftm1dv&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23beta&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#beta');&quot;&gt;#beta&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23javafx&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#javafx');&quot;&gt;#javafx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-03-04T18:53:38Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/82218607/FX_logo_color_small_3_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.aljoscha-rittner.de/blog&quot; rel=&quot;nofollow&quot;&gt;WordpresTweetPost&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>javafx4you (javafx4you)</name>
+      <uri>http://twitter.com/javafx4you</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43744729103474689</id>
+    <published>2011-03-04T18:48:50Z</published>
+    <link type="text/html" href="http://twitter.com/beandev/statuses/43744729103474689" rel="alternate"/>
+    <title>JavaFXDev: NetBeans Platform with JavaFX 2.0ea http://bit.ly/ftm1dv #beta #javafx #netbeans</title>
+    <content type="html">JavaFXDev: NetBeans Platform with JavaFX 2.0ea &lt;a href=&quot;http://bit.ly/ftm1dv&quot;&gt;http://bit.ly/ftm1dv&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23beta&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#beta');&quot;&gt;#beta&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23javafx&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#javafx');&quot;&gt;#javafx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-03-04T18:48:50Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1208191479/JoschPP_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.aljoscha-rittner.de/blog&quot; rel=&quot;nofollow&quot;&gt;WordpresTweetPost&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>beandev (Aljoscha Rittner)</name>
+      <uri>http://twitter.com/beandev</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43700089709010945</id>
+    <published>2011-03-04T15:51:27Z</published>
+    <link type="text/html" href="http://twitter.com/carlosqt/statuses/43700089709010945" rel="alternate"/>
+    <title>#Fantom 1.0.58 released! download from: http://fantom.org/ #programming #java #jvm #scala #csharp #groovy #netbeans #code</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23Fantom&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Fantom');&quot;&gt;#Fantom&lt;/a&gt; 1.0.58 released! download from: &lt;a href=&quot;http://fantom.org/&quot;&gt;http://fantom.org/&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23programming&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#programming');&quot;&gt;#programming&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23java&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#java');&quot;&gt;#java&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23jvm&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#jvm');&quot;&gt;#jvm&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23scala&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#scala');&quot;&gt;#scala&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23csharp&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#csharp');&quot;&gt;#csharp&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23groovy&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#groovy');&quot;&gt;#groovy&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23code&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#code');&quot;&gt;#code&lt;/a&gt;</content>
+    <updated>2011-03-04T15:51:27Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/538970453/cuervo_loco_avatar_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>carlosqt (Carlos Quintanilla)</name>
+      <uri>http://twitter.com/carlosqt</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43695626940190720</id>
+    <published>2011-03-04T15:33:43Z</published>
+    <link type="text/html" href="http://twitter.com/keto1987/statuses/43695626940190720" rel="alternate"/>
+    <title>I hate Eclipse, long life #NetBeans!!!</title>
+    <content type="html">I hate Eclipse, long life &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt;!!!</content>
+    <updated>2011-03-04T15:33:43Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/623095058/YoResoplando_normal.jpg" rel="image"/>
+    <twitter:geo>
+
+<georss:point>40.3341 -3.7455</georss:point>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:place>
+      <twitter:id>4a48243dbd8e054f</twitter:id>
+      <twitter:full_name>Legan&#233;s, Madrid</twitter:full_name>
+      <twitter:type>city</twitter:type>
+    </twitter:place>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>keto1987 (Xabi Vazquez)</name>
+      <uri>http://twitter.com/keto1987</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43692179536879616</id>
+    <published>2011-03-04T15:20:02Z</published>
+    <link type="text/html" href="http://twitter.com/joshis_tweets/statuses/43692179536879616" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T15:20:02Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1236454441/pd_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>joshis_tweets (Petr Dvorak)</name>
+      <uri>http://twitter.com/joshis_tweets</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43678751489404928</id>
+    <published>2011-03-04T14:26:40Z</published>
+    <link type="text/html" href="http://twitter.com/dony109/statuses/43678751489404928" rel="alternate"/>
+    <title>that time of day where #NetBeans starts running slow...</title>
+    <content type="html">that time of day where &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; starts running slow...</content>
+    <updated>2011-03-04T14:26:40Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/729342064/just4you_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>dony109 (Donald Makumbe)</name>
+      <uri>http://twitter.com/dony109</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43670612895465473</id>
+    <published>2011-03-04T13:54:20Z</published>
+    <link type="text/html" href="http://twitter.com/CiscoL10N/statuses/43670612895465473" rel="alternate"/>
+    <title>Visual programming language for voice localisation now has cascading ad-hoc code generation. A milestone has been reached. #netbeans #cisco</title>
+    <content type="html">Visual programming language for voice localisation now has cascading ad-hoc code generation. A milestone has been reached. &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23cisco&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#cisco');&quot;&gt;#cisco&lt;/a&gt;</content>
+    <updated>2011-03-04T13:54:20Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1178280849/cisco_localisation_toolkit_5004_256_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>CiscoL10N (Gary Lefman)</name>
+      <uri>http://twitter.com/CiscoL10N</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43661409346785280</id>
+    <published>2011-03-04T13:17:45Z</published>
+    <link type="text/html" href="http://twitter.com/crynobone/statuses/43661409346785280" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T13:17:45Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1248613578/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>crynobone (Mior Muhammad Zaki)</name>
+      <uri>http://twitter.com/crynobone</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43649624787005440</id>
+    <published>2011-03-04T12:30:56Z</published>
+    <link type="text/html" href="http://twitter.com/GunturBudi/statuses/43649624787005440" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T12:30:56Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1166722106/aaaa_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>GunturBudi (Guntur Budi Herwanto)</name>
+      <uri>http://twitter.com/GunturBudi</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43646887470972928</id>
+    <published>2011-03-04T12:20:03Z</published>
+    <link type="text/html" href="http://twitter.com/milangd/statuses/43646887470972928" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T12:20:03Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1082176502/dev4press_logo_480px_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>milangd (Milan Petrovic)</name>
+      <uri>http://twitter.com/milangd</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43645203390808065</id>
+    <published>2011-03-04T12:13:22Z</published>
+    <link type="text/html" href="http://twitter.com/oscarcosta/statuses/43645203390808065" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T12:13:22Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1121766166/04092010_003__normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>oscarcosta (Oscar Costa)</name>
+      <uri>http://twitter.com/oscarcosta</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43644569673400320</id>
+    <published>2011-03-04T12:10:50Z</published>
+    <link type="text/html" href="http://twitter.com/TopDevTweets/statuses/43644569673400320" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T12:10:50Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1191139755/attachment.ashx__2__normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>TopDevTweets (TopDevTweets)</name>
+      <uri>http://twitter.com/TopDevTweets</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43644418640715776</id>
+    <published>2011-03-04T12:10:14Z</published>
+    <link type="text/html" href="http://twitter.com/wernersmit/statuses/43644418640715776" rel="alternate"/>
+    <title>#Netbeans IDE - 25% of developers use it for #PHP</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23Netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Netbeans');&quot;&gt;&lt;b&gt;#Netbeans&lt;/b&gt;&lt;/a&gt; IDE - 25% of developers use it for &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt;</content>
+    <updated>2011-03-04T12:10:14Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1134657960/1684_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>wernersmit (Werner Smit)</name>
+      <uri>http://twitter.com/wernersmit</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43643648675553280</id>
+    <published>2011-03-04T12:07:11Z</published>
+    <link type="text/html" href="http://twitter.com/bikthor/statuses/43643648675553280" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T12:07:11Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/67329571/13-12-08_1323_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>bikthor (Victor M. Ramirez)</name>
+      <uri>http://twitter.com/bikthor</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43643022310772736</id>
+    <published>2011-03-04T12:04:42Z</published>
+    <link type="text/html" href="http://twitter.com/OndrejBrejla/statuses/43643022310772736" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T12:04:42Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/292399258/avatar_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>OndrejBrejla (Ond&#345;ej Brejla)</name>
+      <uri>http://twitter.com/OndrejBrejla</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43642976676753408</id>
+    <published>2011-03-04T12:04:31Z</published>
+    <link type="text/html" href="http://twitter.com/NetBeansNette/statuses/43642976676753408" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T12:04:31Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1108764109/Bez_n_zvu_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>NetBeansNette (NetBeansNette plugin)</name>
+      <uri>http://twitter.com/NetBeansNette</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43642854760919040</id>
+    <published>2011-03-04T12:04:02Z</published>
+    <link type="text/html" href="http://twitter.com/a6a51/statuses/43642854760919040" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T12:04:02Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/818922527/Screenshot_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>a6a51 (Agasi Gilang Persada)</name>
+      <uri>http://twitter.com/a6a51</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43642463797252096</id>
+    <published>2011-03-04T12:02:28Z</published>
+    <link type="text/html" href="http://twitter.com/tweelines/statuses/43642463797252096" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PH... http://bit.ly/fG74xF</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PH... &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt;</content>
+    <updated>2011-03-04T12:02:28Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1175119167/PA190988_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.snaptu.com&quot; rel=&quot;nofollow&quot;&gt;Snaptu&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>tweelines (Tejas)</name>
+      <uri>http://twitter.com/tweelines</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43642283907743744</id>
+    <published>2011-03-04T12:01:45Z</published>
+    <link type="text/html" href="http://twitter.com/john_godoi/statuses/43642283907743744" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T12:01:45Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1173147148/50095_100001253440756_7285496_q_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>john_godoi (John Godoi)</name>
+      <uri>http://twitter.com/john_godoi</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43641867937652736</id>
+    <published>2011-03-04T12:00:06Z</published>
+    <link type="text/html" href="http://twitter.com/vitormeriat/statuses/43641867937652736" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T12:00:06Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1186716774/c21c96c3-bf7b-4566-8962-31d01f480851_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>vitormeriat (Vitor Meriat)</name>
+      <uri>http://twitter.com/vitormeriat</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43640069101338624</id>
+    <published>2011-03-04T11:52:57Z</published>
+    <link type="text/html" href="http://twitter.com/rogeriomc/statuses/43640069101338624" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T11:52:57Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/432319548/FotoRogerioMoraesCarvalho_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>rogeriomc (Rog&#233;rio Moraes)</name>
+      <uri>http://twitter.com/rogeriomc</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43638859967365120</id>
+    <published>2011-03-04T11:48:09Z</published>
+    <link type="text/html" href="http://twitter.com/JavaMarti/statuses/43638859967365120" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T11:48:09Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1132496889/daemon_normal.gif" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>JavaMarti (J-Martin)</name>
+      <uri>http://twitter.com/JavaMarti</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43638624918568961</id>
+    <published>2011-03-04T11:47:13Z</published>
+    <link type="text/html" href="http://twitter.com/robo47/statuses/43638624918568961" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T11:47:13Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1261041282/robo47-200_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>robo47 (Benjamin Steininger)</name>
+      <uri>http://twitter.com/robo47</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43638613417787392</id>
+    <published>2011-03-04T11:47:10Z</published>
+    <link type="text/html" href="http://twitter.com/PHP_Chris/statuses/43638613417787392" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T11:47:10Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1259589681/me_gusta_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>PHP_Chris (Christian Nielebock)</name>
+      <uri>http://twitter.com/PHP_Chris</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43638557830676480</id>
+    <published>2011-03-04T11:46:57Z</published>
+    <link type="text/html" href="http://twitter.com/tediscript/statuses/43638557830676480" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T11:46:57Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1231777977/5405922155_7403063c0b_z_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>tediscript (tediscript)</name>
+      <uri>http://twitter.com/tediscript</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43638495322980352</id>
+    <published>2011-03-04T11:46:42Z</published>
+    <link type="text/html" href="http://twitter.com/petrabarus/statuses/43638495322980352" rel="alternate"/>
+    <title>RT @netbeans: Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T11:46:42Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1049391101/avatar001_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>petrabarus (Petra Novandi)</name>
+      <uri>http://twitter.com/petrabarus</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43638274325086208</id>
+    <published>2011-03-04T11:45:50Z</published>
+    <link type="text/html" href="http://twitter.com/netbeans/statuses/43638274325086208" rel="alternate"/>
+    <title>Go show some love on the #NetBeans #PHP blog if you're one of the 25% of NetBeans 6.9 users using a PHP project: http://bit.ly/fG74xF :)</title>
+    <content type="html">Go show some love on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; blog if you&amp;apos;re one of the 25% of NetBeans 6.9 users using a PHP project: &lt;a href=&quot;http://bit.ly/fG74xF&quot;&gt;http://bit.ly/fG74xF&lt;/a&gt; :)</content>
+    <updated>2011-03-04T11:45:50Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/255247973/cube_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>netbeans (NetBeans Team)</name>
+      <uri>http://twitter.com/netbeans</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43638237926932480</id>
+    <published>2011-03-04T11:45:41Z</published>
+    <link type="text/html" href="http://twitter.com/userdot/statuses/43638237926932480" rel="alternate"/>
+    <title>Can't get used to #Eclipse, I think I've installed it for about 15 times over the last year. My precious #NetBeans still kicks its ass.</title>
+    <content type="html">Can&amp;apos;t get used to &lt;a href=&quot;http://search.twitter.com/search?q=%23Eclipse&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Eclipse');&quot;&gt;#Eclipse&lt;/a&gt;, I think I&amp;apos;ve installed it for about 15 times over the last year. My precious &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; still kicks its ass.</content>
+    <updated>2011-03-04T11:45:41Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1247133837/marius.stanciu_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>userdot (Marius Stanciu)</name>
+      <uri>http://twitter.com/userdot</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43627989661003776</id>
+    <published>2011-03-04T11:04:57Z</published>
+    <link type="text/html" href="http://twitter.com/darkboy9/statuses/43627989661003776" rel="alternate"/>
+    <title>#HelloWorld! finally I can run #JBoss in my #netbeans! Welcome to new world of #ComputerEngineering</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23HelloWorld&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#HelloWorld');&quot;&gt;#HelloWorld&lt;/a&gt;! finally I can run &lt;a href=&quot;http://search.twitter.com/search?q=%23JBoss&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#JBoss');&quot;&gt;#JBoss&lt;/a&gt; in my &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;! Welcome to new world of &lt;a href=&quot;http://search.twitter.com/search?q=%23ComputerEngineering&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#ComputerEngineering');&quot;&gt;#ComputerEngineering&lt;/a&gt;</content>
+    <updated>2011-03-04T11:04:57Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1204918849/wallpaper_dirge_of_cerberus_final_fantasy_vii_01_1920x1200_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>darkboy9 (Amin Mousavi)</name>
+      <uri>http://twitter.com/darkboy9</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43611660480557056</id>
+    <published>2011-03-04T10:00:04Z</published>
+    <link type="text/html" href="http://twitter.com/ivar_grimstad/statuses/43611660480557056" rel="alternate"/>
+    <title>Don't understand why people still use Eclipse. It's like driving your car with the handbrake on, or typing with one finger #netbeans #yam</title>
+    <content type="html">Don&amp;apos;t understand why people still use Eclipse. It&amp;apos;s like driving your car with the handbrake on, or typing with one finger &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23yam&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#yam');&quot;&gt;#yam&lt;/a&gt;</content>
+    <updated>2011-03-04T10:00:04Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/258573903/IMG_1600_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ivar_grimstad (Ivar Grimstad)</name>
+      <uri>http://twitter.com/ivar_grimstad</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43602761971007488</id>
+    <published>2011-03-04T09:24:43Z</published>
+    <link type="text/html" href="http://twitter.com/colinmollenhour/statuses/43602761971007488" rel="alternate"/>
+    <title>@TomNomNom I just spent the last few hours with #phpstorm2 and it is without a doubt the best. Bye #netbeans!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/TomNomNom&quot;&gt;@TomNomNom&lt;/a&gt; I just spent the last few hours with &lt;a href=&quot;http://search.twitter.com/search?q=%23phpstorm2&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#phpstorm2');&quot;&gt;#phpstorm2&lt;/a&gt; and it is without a doubt the best. Bye &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;!</content>
+    <updated>2011-03-04T09:24:43Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/247124021/Canon-Test-002_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>colinmollenhour (Colin Mollenhour)</name>
+      <uri>http://twitter.com/colinmollenhour</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43544430715740160</id>
+    <published>2011-03-04T05:32:55Z</published>
+    <link type="text/html" href="http://twitter.com/ja_netbeans/statuses/43544430715740160" rel="alternate"/>
+    <title>&#12304;&#25105;&#12425;&#12495;&#12493;&#12488;&#39340;&#40575;&#12305; JDK 7&#12398;&#26032;&#27231;&#33021; Peoject Coin&#32232;&#65288;&#12381;&#12398;1&#65289; http://bit.ly/fDfuvd #netbeans</title>
+    <content type="html">&#12304;&#25105;&#12425;&#12495;&#12493;&#12488;&#39340;&#40575;&#12305; JDK 7&#12398;&#26032;&#27231;&#33021; Peoject Coin&#32232;&#65288;&#12381;&#12398;1&#65289; &lt;a href=&quot;http://bit.ly/fDfuvd&quot;&gt;http://bit.ly/fDfuvd&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-03-04T05:32:55Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/72418572/cat_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/katakai&quot; rel=&quot;nofollow&quot;&gt;katakai&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ja_netbeans (NetBeans&#26085;&#26412;&#35486;&#12467;&#12511;&#12517;&#12491;&#12486;&#12451;)</name>
+      <uri>http://twitter.com/ja_netbeans</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43500900924391425</id>
+    <published>2011-03-04T02:39:57Z</published>
+    <link type="text/html" href="http://twitter.com/kubid/statuses/43500900924391425" rel="alternate"/>
+    <title>start using #VIM.. slowly leaving #netbeans... CMIIW in my sentences xD</title>
+    <content type="html">start using &lt;a href=&quot;http://search.twitter.com/search?q=%23VIM&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#VIM');&quot;&gt;#VIM&lt;/a&gt;.. slowly leaving &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;... CMIIW in my sentences xD</content>
+    <updated>2011-03-04T02:39:57Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1259561626/DSC00768p_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic&quot; rel=&quot;nofollow&quot;&gt;Chromed Bird&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>kubid (Rifki fauzi)</name>
+      <uri>http://twitter.com/kubid</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43486491623698432</id>
+    <published>2011-03-04T01:42:42Z</published>
+    <link type="text/html" href="http://twitter.com/ujovlado/statuses/43486491623698432" rel="alternate"/>
+    <title>pomal&#225; netb&#237;nsa! #netbeans #slow, #slower, the #slowest ...</title>
+    <content type="html">pomal&#225; netb&#237;nsa! &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23slow&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#slow');&quot;&gt;#slow&lt;/a&gt;, &lt;a href=&quot;http://search.twitter.com/search?q=%23slower&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#slower');&quot;&gt;#slower&lt;/a&gt;, the &lt;a href=&quot;http://search.twitter.com/search?q=%23slowest&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#slowest');&quot;&gt;#slowest&lt;/a&gt; ...</content>
+    <updated>2011-03-04T01:42:42Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/91520031/n1322130728_30169157_9465_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ujovlado (Vladim&#237;r Kri&#353;ka)</name>
+      <uri>http://twitter.com/ujovlado</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43468943532367872</id>
+    <published>2011-03-04T00:32:58Z</published>
+    <link type="text/html" href="http://twitter.com/TsendeeMTS/statuses/43468943532367872" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-04T00:32:58Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1236389660/TreeSky_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>TsendeeMTS (Tsendsuren)</name>
+      <uri>http://twitter.com/TsendeeMTS</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43467497785143296</id>
+    <published>2011-03-04T00:27:13Z</published>
+    <link type="text/html" href="http://twitter.com/matteo80/statuses/43467497785143296" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-04T00:27:13Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/50585952/srv3_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>matteo80 (Matteo Formica)</name>
+      <uri>http://twitter.com/matteo80</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43464086897442817</id>
+    <published>2011-03-04T00:13:40Z</published>
+    <link type="text/html" href="http://twitter.com/mefiblogger/statuses/43464086897442817" rel="alternate"/>
+    <title>Installing #NetBeans 7 (woot) via @esempe</title>
+    <content type="html">Installing &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; 7 (woot) via &lt;a href=&quot;http://twitter.com/esempe&quot;&gt;@esempe&lt;/a&gt;</content>
+    <updated>2011-03-04T00:13:40Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/192981274/mefiblog_logo_vektoros_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Tweetie for Mac&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>mefiblogger (G&#225;bor N&#225;dai)</name>
+      <uri>http://twitter.com/mefiblogger</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43448896395030531</id>
+    <published>2011-03-03T23:13:18Z</published>
+    <link type="text/html" href="http://twitter.com/rchicas/statuses/43448896395030531" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T23:13:18Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1186897361/48908_1136251251_1659_q_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>rchicas (Rudy Chicas)</name>
+      <uri>http://twitter.com/rchicas</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43398588600029184</id>
+    <published>2011-03-03T19:53:24Z</published>
+    <link type="text/html" href="http://twitter.com/ghigoA/statuses/43398588600029184" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T19:53:24Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1171406868/48905_1018810669_2666_n_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ghigoA (FedericoA)</name>
+      <uri>http://twitter.com/ghigoA</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43392706692661248</id>
+    <published>2011-03-03T19:30:02Z</published>
+    <link type="text/html" href="http://twitter.com/joalma/statuses/43392706692661248" rel="alternate"/>
+    <title>RT @OndrejBrejla: New version of the #NetBeans #APIGen plugin was just released. For more information read #InBeans blog. http://bit.ly/hiPrqx #nette</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/OndrejBrejla&quot;&gt;@OndrejBrejla&lt;/a&gt;: New version of the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23APIGen&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#APIGen');&quot;&gt;#APIGen&lt;/a&gt; plugin was just released. For more information read &lt;a href=&quot;http://search.twitter.com/search?q=%23InBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#InBeans');&quot;&gt;#InBeans&lt;/a&gt; blog. &lt;a href=&quot;http://bit.ly/hiPrqx&quot;&gt;http://bit.ly/hiPrqx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23nette&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#nette');&quot;&gt;#nette&lt;/a&gt;</content>
+    <updated>2011-03-03T19:30:02Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/104569744/PICT4800_DXO_1280_1024_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic&quot; rel=&quot;nofollow&quot;&gt;Chromed Bird&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>joalma (Joao Almeida)</name>
+      <uri>http://twitter.com/joalma</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43353449894641664</id>
+    <published>2011-03-03T16:54:02Z</published>
+    <link type="text/html" href="http://twitter.com/SolutionsIQJobs/statuses/43353449894641664" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T16:54:02Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/975256881/siq_JOBS_abbrev_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>SolutionsIQJobs (SolutionsIQ Jobs)</name>
+      <uri>http://twitter.com/SolutionsIQJobs</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43351259603931136</id>
+    <published>2011-03-03T16:45:20Z</published>
+    <link type="text/html" href="http://twitter.com/alanobranco/statuses/43351259603931136" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T16:45:20Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1092919165/teste1_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>alanobranco (Alano Branco)</name>
+      <uri>http://twitter.com/alanobranco</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43332702883160064</id>
+    <published>2011-03-03T15:31:36Z</published>
+    <link type="text/html" href="http://twitter.com/jornaljava/statuses/43332702883160064" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T15:31:36Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1211428008/filetype-150x150_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jornaljava (JornalJava)</name>
+      <uri>http://twitter.com/jornaljava</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43332529494827008</id>
+    <published>2011-03-03T15:30:54Z</published>
+    <link type="text/html" href="http://twitter.com/dexterous/statuses/43332529494827008" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T15:30:54Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1120539196/dexter_normal.gif" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>dexterous (Saager Mhatre)</name>
+      <uri>http://twitter.com/dexterous</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43331682073444352</id>
+    <published>2011-03-03T15:27:32Z</published>
+    <link type="text/html" href="http://twitter.com/xiruki/statuses/43331682073444352" rel="alternate"/>
+    <title>#Netbeans. tagal mo ma install. DAMMIT :(</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23Netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Netbeans');&quot;&gt;&lt;b&gt;#Netbeans&lt;/b&gt;&lt;/a&gt;. tagal mo ma install. DAMMIT :(</content>
+    <updated>2011-03-03T15:27:32Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1234469467/163714_1618734462413_1057933714_31366531_7541287_x_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>xiruki (Xiruki Haruka Tepe)</name>
+      <uri>http://twitter.com/xiruki</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43331385418719232</id>
+    <published>2011-03-03T15:26:21Z</published>
+    <link type="text/html" href="http://twitter.com/holverat/statuses/43331385418719232" rel="alternate"/>
+    <title>RT @OndrejBrejla: New version of the #NetBeans #APIGen plugin was just released. For more information read #InBeans blog. http://bit.ly/hiPrqx #nette</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/OndrejBrejla&quot;&gt;@OndrejBrejla&lt;/a&gt;: New version of the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23APIGen&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#APIGen');&quot;&gt;#APIGen&lt;/a&gt; plugin was just released. For more information read &lt;a href=&quot;http://search.twitter.com/search?q=%23InBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#InBeans');&quot;&gt;#InBeans&lt;/a&gt; blog. &lt;a href=&quot;http://bit.ly/hiPrqx&quot;&gt;http://bit.ly/hiPrqx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23nette&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#nette');&quot;&gt;#nette&lt;/a&gt;</content>
+    <updated>2011-03-03T15:26:21Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1059232640/Foto0154_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic&quot; rel=&quot;nofollow&quot;&gt;Chromed Bird&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>holverat (Holverat Bortolossi)</name>
+      <uri>http://twitter.com/holverat</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43331232217563136</id>
+    <published>2011-03-03T15:25:45Z</published>
+    <link type="text/html" href="http://twitter.com/amirhoshangi/statuses/43331232217563136" rel="alternate"/>
+    <title>RT @jchaclan: &quot;@java: New Tech Article: Java Neural Networks on the  #NetBeans Platform http://cot.ag/fbPR3y&quot; very interesting!</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/jchaclan&quot;&gt;@jchaclan&lt;/a&gt;: &amp;quot;&lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the  &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;&amp;quot; very interesting!</content>
+    <updated>2011-03-03T15:25:45Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1215534058/linuxwars_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>amirhoshangi (Amir Hoshangi)</name>
+      <uri>http://twitter.com/amirhoshangi</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43327712915488768</id>
+    <published>2011-03-03T15:11:46Z</published>
+    <link type="text/html" href="http://twitter.com/_chimna/statuses/43327712915488768" rel="alternate"/>
+    <title>RT @GeertjanW: RT @jchaclan: &quot;@java: New Tech Article: Java Neural Networks on the #NetBeans Platform http://cot.ag/fbPR3y&quot; interesting!</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/GeertjanW&quot;&gt;@GeertjanW&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/jchaclan&quot;&gt;@jchaclan&lt;/a&gt;: &amp;quot;&lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;&amp;quot; interesting!</content>
+    <updated>2011-03-03T15:11:46Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1209954319/pic1_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://mobileways.de/gravity&quot; rel=&quot;nofollow&quot;&gt;Gravity&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>_chimna (Ameya Gharote)</name>
+      <uri>http://twitter.com/_chimna</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43325340826873856</id>
+    <published>2011-03-03T15:02:20Z</published>
+    <link type="text/html" href="http://twitter.com/Falconcs/statuses/43325340826873856" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T15:02:20Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1260241114/2011-03-03-060318_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Falconcs (Mahmoud Gamal)</name>
+      <uri>http://twitter.com/Falconcs</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43322948395872256</id>
+    <published>2011-03-03T14:52:50Z</published>
+    <link type="text/html" href="http://twitter.com/nonsie/statuses/43322948395872256" rel="alternate"/>
+    <title>There's no git plugin for #netbeans? What gives?</title>
+    <content type="html">There&amp;apos;s no git plugin for &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;? What gives?</content>
+    <updated>2011-03-03T14:52:50Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/606538118/IMG_3364_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>nonsie (Katrin Silvius)</name>
+      <uri>http://twitter.com/nonsie</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43320636361285634</id>
+    <published>2011-03-03T14:43:39Z</published>
+    <link type="text/html" href="http://twitter.com/xtecuan/statuses/43320636361285634" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T14:43:39Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1225619334/2011-01-25-125627_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>xtecuan (Tadeo)</name>
+      <uri>http://twitter.com/xtecuan</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43312121982889984</id>
+    <published>2011-03-03T14:09:49Z</published>
+    <link type="text/html" href="http://twitter.com/julices/statuses/43312121982889984" rel="alternate"/>
+    <title>Nice! What u think @andreacbravob @carobocaranda? RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">Nice! What u think &lt;a href=&quot;http://twitter.com/andreacbravob&quot;&gt;@andreacbravob&lt;/a&gt; &lt;a href=&quot;http://twitter.com/carobocaranda&quot;&gt;@carobocaranda&lt;/a&gt;? RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T14:09:49Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1214183406/Yo_comedor_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>julices (Julio C&#233;sar)</name>
+      <uri>http://twitter.com/julices</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43310112684781568</id>
+    <published>2011-03-03T14:01:50Z</published>
+    <link type="text/html" href="http://twitter.com/ventura183/statuses/43310112684781568" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T14:01:50Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/492197856/iope_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ventura183 (john ventura acero)</name>
+      <uri>http://twitter.com/ventura183</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43309457337368576</id>
+    <published>2011-03-03T13:59:13Z</published>
+    <link type="text/html" href="http://twitter.com/dcparrarincon/statuses/43309457337368576" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T13:59:13Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1133600329/DSC00063_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>dcparrarincon (Diana Parra Rinc&#243;n)</name>
+      <uri>http://twitter.com/dcparrarincon</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43308785200140288</id>
+    <published>2011-03-03T13:56:33Z</published>
+    <link type="text/html" href="http://twitter.com/jakartawebs/statuses/43308785200140288" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T13:56:33Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1257273019/logo-trans2_normal.GIF" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jakartawebs (JWeBS)</name>
+      <uri>http://twitter.com/jakartawebs</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43308234026663936</id>
+    <published>2011-03-03T13:54:22Z</published>
+    <link type="text/html" href="http://twitter.com/missingBoi/statuses/43308234026663936" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T13:54:22Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1145291362/41646_578574035_3715_q_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>missingBoi (Lionel O)</name>
+      <uri>http://twitter.com/missingBoi</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43308170378084352</id>
+    <published>2011-03-03T13:54:07Z</published>
+    <link type="text/html" href="http://twitter.com/kingletas/statuses/43308170378084352" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T13:54:07Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1258383951/profile_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>kingletas (Luis Tineo)</name>
+      <uri>http://twitter.com/kingletas</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43303752903573504</id>
+    <published>2011-03-03T13:36:33Z</published>
+    <link type="text/html" href="http://twitter.com/gregpyp/statuses/43303752903573504" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T13:36:33Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/sticky/default_profile_images/default_profile_6_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>gregpyp (gregpyp)</name>
+      <uri>http://twitter.com/gregpyp</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43303070079266817</id>
+    <published>2011-03-03T13:33:51Z</published>
+    <link type="text/html" href="http://twitter.com/ambernal1984/statuses/43303070079266817" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T13:33:51Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1247116856/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ambernal1984 (Andres Bernal)</name>
+      <uri>http://twitter.com/ambernal1984</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43301709363167232</id>
+    <published>2011-03-03T13:28:26Z</published>
+    <link type="text/html" href="http://twitter.com/netbeans/statuses/43301709363167232" rel="alternate"/>
+    <title>RT @OndrejBrejla: New version of the #NetBeans #APIGen plugin was just released. For more information read #InBeans blog. http://bit.ly/hiPrqx #nette</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/OndrejBrejla&quot;&gt;@OndrejBrejla&lt;/a&gt;: New version of the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23APIGen&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#APIGen');&quot;&gt;#APIGen&lt;/a&gt; plugin was just released. For more information read &lt;a href=&quot;http://search.twitter.com/search?q=%23InBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#InBeans');&quot;&gt;#InBeans&lt;/a&gt; blog. &lt;a href=&quot;http://bit.ly/hiPrqx&quot;&gt;http://bit.ly/hiPrqx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23nette&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#nette');&quot;&gt;#nette&lt;/a&gt;</content>
+    <updated>2011-03-03T13:28:26Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/255247973/cube_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic&quot; rel=&quot;nofollow&quot;&gt;Chromed Bird&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>netbeans (NetBeans Team)</name>
+      <uri>http://twitter.com/netbeans</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43301508925767680</id>
+    <published>2011-03-03T13:27:38Z</published>
+    <link type="text/html" href="http://twitter.com/netbeans/statuses/43301508925767680" rel="alternate"/>
+    <title>@OndrejBrejla Nice! Will include in next week's #NetBeans newsletter.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/OndrejBrejla&quot;&gt;@OndrejBrejla&lt;/a&gt; Nice! Will include in next week&amp;apos;s &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; newsletter.</content>
+    <updated>2011-03-03T13:27:38Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/255247973/cube_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>netbeans (NetBeans Team)</name>
+      <uri>http://twitter.com/netbeans</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43299736324816896</id>
+    <published>2011-03-03T13:20:36Z</published>
+    <link type="text/html" href="http://twitter.com/carlosqt/statuses/43299736324816896" rel="alternate"/>
+    <title>#Jython 2.5.2 released! Download from: http://jython.org #programming #python #ironpython #java #jvm #netbeans #oracle #code</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23Jython&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Jython');&quot;&gt;#Jython&lt;/a&gt; 2.5.2 released! Download from: &lt;a href=&quot;http://jython.org&quot;&gt;http://jython.org&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23programming&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#programming');&quot;&gt;#programming&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23python&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#python');&quot;&gt;#python&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23ironpython&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#ironpython');&quot;&gt;#ironpython&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23java&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#java');&quot;&gt;#java&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23jvm&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#jvm');&quot;&gt;#jvm&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23oracle&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#oracle');&quot;&gt;#oracle&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23code&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#code');&quot;&gt;#code&lt;/a&gt;</content>
+    <updated>2011-03-03T13:20:36Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/538970453/cuervo_loco_avatar_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>carlosqt (Carlos Quintanilla)</name>
+      <uri>http://twitter.com/carlosqt</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43296709140414464</id>
+    <published>2011-03-03T13:08:34Z</published>
+    <link type="text/html" href="http://twitter.com/leonhad037/statuses/43296709140414464" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T13:08:34Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1043624561/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>leonhad037 (Leonardo Costa)</name>
+      <uri>http://twitter.com/leonhad037</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43293450988294144</id>
+    <published>2011-03-03T12:55:37Z</published>
+    <link type="text/html" href="http://twitter.com/regisleandro/statuses/43293450988294144" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T12:55:37Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1180758156/ln_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>regisleandro (R&#233;gis Leandro Buske)</name>
+      <uri>http://twitter.com/regisleandro</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43293250043379713</id>
+    <published>2011-03-03T12:54:49Z</published>
+    <link type="text/html" href="http://twitter.com/YisraelStein/statuses/43293250043379713" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T12:54:49Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1251545352/display_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>YisraelStein (Yisra'el Stein)</name>
+      <uri>http://twitter.com/YisraelStein</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43292718474072064</id>
+    <published>2011-03-03T12:52:43Z</published>
+    <link type="text/html" href="http://twitter.com/n3cr1s/statuses/43292718474072064" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T12:52:43Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1027601079/EOA3oIE5_normal" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>n3cr1s (Jan &#381;alsk&#253;)</name>
+      <uri>http://twitter.com/n3cr1s</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43292417805389824</id>
+    <published>2011-03-03T12:51:31Z</published>
+    <link type="text/html" href="http://twitter.com/muzzamilhussain/statuses/43292417805389824" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T12:51:31Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/1255945171/barcode_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>muzzamilhussain (Muzzamil Hussain)</name>
+      <uri>http://twitter.com/muzzamilhussain</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43291596095094784</id>
+    <published>2011-03-03T12:48:15Z</published>
+    <link type="text/html" href="http://twitter.com/giangerbaldo/statuses/43291596095094784" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T12:48:15Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1146849787/imagem_gian_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>giangerbaldo (Gianfranco Gerbaldo)</name>
+      <uri>http://twitter.com/giangerbaldo</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43291185162362880</id>
+    <published>2011-03-03T12:46:37Z</published>
+    <link type="text/html" href="http://twitter.com/derkdukker/statuses/43291185162362880" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T12:46:37Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1168446973/derk_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>derkdukker (Derk Dukker)</name>
+      <uri>http://twitter.com/derkdukker</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43290399539855360</id>
+    <published>2011-03-03T12:43:30Z</published>
+    <link type="text/html" href="http://twitter.com/atilacamurca/statuses/43290399539855360" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T12:43:30Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/913812467/atila.camurca_gmail.com_9c4741b3_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>atilacamurca (&#193;tila Camur&#231;a)</name>
+      <uri>http://twitter.com/atilacamurca</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43289865659482112</id>
+    <published>2011-03-03T12:41:22Z</published>
+    <link type="text/html" href="http://twitter.com/rogermanich/statuses/43289865659482112" rel="alternate"/>
+    <title>RT @netbeans: RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/netbeans&quot;&gt;@netbeans&lt;/a&gt;: RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T12:41:22Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1227048374/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>rogermanich (Roger )</name>
+      <uri>http://twitter.com/rogermanich</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43289850849398785</id>
+    <published>2011-03-03T12:41:19Z</published>
+    <link type="text/html" href="http://twitter.com/Tsarev_Oleg/statuses/43289850849398785" rel="alternate"/>
+    <title>Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y RT @java</title>
+    <content type="html">Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt; RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;</content>
+    <updated>2011-03-03T12:41:19Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/617932338/x_de444470_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Tsarev_Oleg (Oleg Tsarev)</name>
+      <uri>http://twitter.com/Tsarev_Oleg</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43289423684714496</id>
+    <published>2011-03-03T12:39:37Z</published>
+    <link type="text/html" href="http://twitter.com/GeertjanW/statuses/43289423684714496" rel="alternate"/>
+    <title>RT @jchaclan: &quot;@java: New Tech Article: Java Neural Networks on the  #NetBeans Platform http://cot.ag/fbPR3y&quot; very interesting!</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/jchaclan&quot;&gt;@jchaclan&lt;/a&gt;: &amp;quot;&lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the  &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;&amp;quot; very interesting!</content>
+    <updated>2011-03-03T12:39:37Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/74554673/gj-pic.png_normal.jpeg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>GeertjanW (Geertjan Wielenga)</name>
+      <uri>http://twitter.com/GeertjanW</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43289415992348672</id>
+    <published>2011-03-03T12:39:35Z</published>
+    <link type="text/html" href="http://twitter.com/netbeans/statuses/43289415992348672" rel="alternate"/>
+    <title>RT @oracletechnet: Article: Neural Networks on the #NetBeans Platform http://bit.ly/eVqJ9i</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/oracletechnet&quot;&gt;@oracletechnet&lt;/a&gt;: Article: Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://bit.ly/eVqJ9i&quot;&gt;http://bit.ly/eVqJ9i&lt;/a&gt;</content>
+    <updated>2011-03-03T12:39:35Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/255247973/cube_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>netbeans (NetBeans Team)</name>
+      <uri>http://twitter.com/netbeans</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43289271569887232</id>
+    <published>2011-03-03T12:39:01Z</published>
+    <link type="text/html" href="http://twitter.com/emecas/statuses/43289271569887232" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T12:39:01Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1096937450/me2_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>emecas (&#1028;&#1046;&#1028;RSoN CaStaN&#1028;Da S)</name>
+      <uri>http://twitter.com/emecas</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43288819029655552</id>
+    <published>2011-03-03T12:37:13Z</published>
+    <link type="text/html" href="http://twitter.com/ehsavoie/statuses/43288819029655552" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T12:37:13Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/288603908/batux-chimie-tux_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ehsavoie (ehsavoie)</name>
+      <uri>http://twitter.com/ehsavoie</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43288310134738944</id>
+    <published>2011-03-03T12:35:12Z</published>
+    <link type="text/html" href="http://twitter.com/markuslervik/statuses/43288310134738944" rel="alternate"/>
+    <title>It'd be nice if the #netbeans API docs didn't give me 403 all the time. This is getting a bit frustrating.</title>
+    <content type="html">It&amp;apos;d be nice if the &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt; API docs didn&amp;apos;t give me 403 all the time. This is getting a bit frustrating.</content>
+    <updated>2011-03-03T12:35:12Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1259930424/182760_165647753485651_100001212832840_407569_5020017_n_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>markuslervik (Markus Lervik)</name>
+      <uri>http://twitter.com/markuslervik</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43287498608222209</id>
+    <published>2011-03-03T12:31:58Z</published>
+    <link type="text/html" href="http://twitter.com/paulalm87/statuses/43287498608222209" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T12:31:58Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1163945841/Captura_normal.PNG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>paulalm87 (Pau)</name>
+      <uri>http://twitter.com/paulalm87</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43287400075640832</id>
+    <published>2011-03-03T12:31:35Z</published>
+    <link type="text/html" href="http://twitter.com/deebak/statuses/43287400075640832" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T12:31:35Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/sticky/default_profile_images/default_profile_2_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>deebak (deebak)</name>
+      <uri>http://twitter.com/deebak</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43287359000817664</id>
+    <published>2011-03-03T12:31:25Z</published>
+    <link type="text/html" href="http://twitter.com/jchaclan/statuses/43287359000817664" rel="alternate"/>
+    <title>&quot;@java: New Tech Article: Java Neural Networks on the  #NetBeans Platform http://cot.ag/fbPR3y&quot; very interesting!</title>
+    <content type="html">&amp;quot;&lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the  &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;&amp;quot; very interesting!</content>
+    <updated>2011-03-03T12:31:25Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1219107983/jpProfile_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jchaclan (Juan Pablo Chaclan)</name>
+      <uri>http://twitter.com/jchaclan</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43287003441283072</id>
+    <published>2011-03-03T12:30:00Z</published>
+    <link type="text/html" href="http://twitter.com/elKik0/statuses/43287003441283072" rel="alternate"/>
+    <title>@java &quot;New Tech Article: Java Neural Networks on the #NetBeans Platform http://cot.ag/fbPR3y&quot;: para estudiantes IA, Computaci&#242;n Emergente</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt; &amp;quot;New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;&amp;quot;: para estudiantes IA, Computaci&#242;n Emergente</content>
+    <updated>2011-03-03T12:30:00Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1256155385/Miguel3_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>elKik0 (Miguel Cabeza)</name>
+      <uri>http://twitter.com/elKik0</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43286512963559425</id>
+    <published>2011-03-03T12:28:03Z</published>
+    <link type="text/html" href="http://twitter.com/gregorioarthur/statuses/43286512963559425" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T12:28:03Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1200453903/eo_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>gregorioarthur (Arthur Greg&#243;rio)</name>
+      <uri>http://twitter.com/gregorioarthur</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43286397985095681</id>
+    <published>2011-03-03T12:27:36Z</published>
+    <link type="text/html" href="http://twitter.com/Luiz_Alves_/statuses/43286397985095681" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T12:27:36Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/387120134/11-11-06_0954_r1_c1as_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Luiz_Alves_ (Luiz Fernando Alves)</name>
+      <uri>http://twitter.com/Luiz_Alves_</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43286396718419968</id>
+    <published>2011-03-03T12:27:35Z</published>
+    <link type="text/html" href="http://twitter.com/lucascarvalho__/statuses/43286396718419968" rel="alternate"/>
+    <title>RT @java: New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/java&quot;&gt;@java&lt;/a&gt;: New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T12:27:35Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1259151370/PIC_0025_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>lucascarvalho__ (Lucas Carvalho)</name>
+      <uri>http://twitter.com/lucascarvalho__</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43285999446523905</id>
+    <published>2011-03-03T12:26:01Z</published>
+    <link type="text/html" href="http://twitter.com/java/statuses/43285999446523905" rel="alternate"/>
+    <title>New Tech Article: Java Neural Networks on the #NetBeans Platform  http://cot.ag/fbPR3y</title>
+    <content type="html">New Tech Article: Java Neural Networks on the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; Platform  &lt;a href=&quot;http://cot.ag/fbPR3y&quot;&gt;http://cot.ag/fbPR3y&lt;/a&gt;</content>
+    <updated>2011-03-03T12:26:01Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/770950120/java-icon48b_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>java (Java)</name>
+      <uri>http://twitter.com/java</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43236563206930432</id>
+    <published>2011-03-03T09:09:34Z</published>
+    <link type="text/html" href="http://twitter.com/NetBeansNette/statuses/43236563206930432" rel="alternate"/>
+    <title>RT @OndrejBrejla: New version of the #NetBeans #APIGen plugin was just released. For more information read #InBeans blog. http://bit.ly/hiPrqx #nette</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/OndrejBrejla&quot;&gt;@OndrejBrejla&lt;/a&gt;: New version of the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23APIGen&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#APIGen');&quot;&gt;#APIGen&lt;/a&gt; plugin was just released. For more information read &lt;a href=&quot;http://search.twitter.com/search?q=%23InBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#InBeans');&quot;&gt;#InBeans&lt;/a&gt; blog. &lt;a href=&quot;http://bit.ly/hiPrqx&quot;&gt;http://bit.ly/hiPrqx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23nette&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#nette');&quot;&gt;#nette&lt;/a&gt;</content>
+    <updated>2011-03-03T09:09:34Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1108764109/Bez_n_zvu_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic&quot; rel=&quot;nofollow&quot;&gt;Chromed Bird&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>NetBeansNette (NetBeansNette plugin)</name>
+      <uri>http://twitter.com/NetBeansNette</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43233987568730112</id>
+    <published>2011-03-03T08:59:20Z</published>
+    <link type="text/html" href="http://twitter.com/OndrejBrejla/statuses/43233987568730112" rel="alternate"/>
+    <title>New version of the #NetBeans #APIGen plugin was just released. For more information read #InBeans blog. http://bit.ly/hiPrqx #nette</title>
+    <content type="html">New version of the &lt;a href=&quot;http://search.twitter.com/search?q=%23NetBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NetBeans');&quot;&gt;&lt;b&gt;#NetBeans&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23APIGen&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#APIGen');&quot;&gt;#APIGen&lt;/a&gt; plugin was just released. For more information read &lt;a href=&quot;http://search.twitter.com/search?q=%23InBeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#InBeans');&quot;&gt;#InBeans&lt;/a&gt; blog. &lt;a href=&quot;http://bit.ly/hiPrqx&quot;&gt;http://bit.ly/hiPrqx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23nette&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#nette');&quot;&gt;#nette&lt;/a&gt;</content>
+    <updated>2011-03-03T08:59:20Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/292399258/avatar_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic&quot; rel=&quot;nofollow&quot;&gt;Chromed Bird&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>OndrejBrejla (Ond&#345;ej Brejla)</name>
+      <uri>http://twitter.com/OndrejBrejla</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43215665229873152</id>
+    <published>2011-03-03T07:46:32Z</published>
+    <link type="text/html" href="http://twitter.com/xBlackScorpx/statuses/43215665229873152" rel="alternate"/>
+    <title>Nice #javascript can have private variables. #Netbeans display them if you name it with _ at start. var _test = &quot;myPrivateVar&quot;;</title>
+    <content type="html">Nice &lt;a href=&quot;http://search.twitter.com/search?q=%23javascript&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#javascript');&quot;&gt;#javascript&lt;/a&gt; can have private variables. &lt;a href=&quot;http://search.twitter.com/search?q=%23Netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Netbeans');&quot;&gt;&lt;b&gt;#Netbeans&lt;/b&gt;&lt;/a&gt; display them if you name it with _ at start. var _test = &amp;quot;myPrivateVar&amp;quot;;</content>
+    <updated>2011-03-03T07:46:32Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1191269931/avatar94767_1.gif_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>xBlackScorpx (Witali Mik)</name>
+      <uri>http://twitter.com/xBlackScorpx</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43155520349155328</id>
+    <published>2011-03-03T03:47:32Z</published>
+    <link type="text/html" href="http://twitter.com/jiegonator/statuses/43155520349155328" rel="alternate"/>
+    <title>#Netbeans , Why oh why were you not developed in #C or #C++ ??? #$!%#!!!#@$@#*%$$#%!!!_JAVA!</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23Netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Netbeans');&quot;&gt;&lt;b&gt;#Netbeans&lt;/b&gt;&lt;/a&gt; , Why oh why were you not developed in &lt;a href=&quot;http://search.twitter.com/search?q=%23C&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#C');&quot;&gt;#C&lt;/a&gt; or &lt;a href=&quot;http://search.twitter.com/search?q=%23C&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#C');&quot;&gt;#C&lt;/a&gt;++ ??? #$!%#!!!#@$@#*%$$#%!!!_JAVA!</content>
+    <updated>2011-03-03T03:47:32Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1150038705/73447_160800587276154_100000386425606_369050_2138233_n_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.digsby.com/?utm_campaign=twitter&quot; rel=&quot;nofollow&quot;&gt;Digsby&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>jiegonator (Jiego Amos Cordoviz)</name>
+      <uri>http://twitter.com/jiegonator</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43141239591280640</id>
+    <published>2011-03-03T02:50:47Z</published>
+    <link type="text/html" href="http://twitter.com/digz6666/statuses/43141239591280640" rel="alternate"/>
+    <title>#Netbeans-&#1080;&#1081;&#1085; Norway Today scheme &#1080;&#1093; &#1090;&#1072;&#1072;&#1083;&#1072;&#1075;&#1076;&#1072;&#1078; &#1073;&#1072;&#1081;&#1085;&#1072;, #eclipse &#1076;&#1101;&#1101;&#1088; &#1103;&#1072;&#1078; &#1093;&#1103;&#1083;&#1073;&#1072;&#1088;&#1093;&#1072;&#1085; &#1086;&#1088;&#1091;&#1091;&#1083;&#1072;&#1093; &#1074;&#1101;? &#1053;&#1101;&#1075; &#1073;&#1199;&#1088;&#1095;&#1083;&#1101;&#1085; &#1257;&#1085;&#1075;&#1257;&#1085;&#1080;&#1081; &#1082;&#1086;&#1076;&#1099;&#1075; &#1085;&#1100; &#1079;&#1072;&#1089;&#1093;&#1072;&#1072;&#1089; &#1079;&#1072;&#1083;&#1093;&#1091;&#1091; :P</title>
+    <content type="html">&lt;b&gt;#Netbeans&lt;/b&gt;-&#1080;&#1081;&#1085; Norway Today scheme &#1080;&#1093; &#1090;&#1072;&#1072;&#1083;&#1072;&#1075;&#1076;&#1072;&#1078; &#1073;&#1072;&#1081;&#1085;&#1072;, &lt;a href=&quot;http://search.twitter.com/search?q=%23eclipse&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#eclipse');&quot;&gt;#eclipse&lt;/a&gt; &#1076;&#1101;&#1101;&#1088; &#1103;&#1072;&#1078; &#1093;&#1103;&#1083;&#1073;&#1072;&#1088;&#1093;&#1072;&#1085; &#1086;&#1088;&#1091;&#1091;&#1083;&#1072;&#1093; &#1074;&#1101;? &#1053;&#1101;&#1075; &#1073;&#1199;&#1088;&#1095;&#1083;&#1101;&#1085; &#1257;&#1085;&#1075;&#1257;&#1085;&#1080;&#1081; &#1082;&#1086;&#1076;&#1099;&#1075; &#1085;&#1100; &#1079;&#1072;&#1089;&#1093;&#1072;&#1072;&#1089; &#1079;&#1072;&#1083;&#1093;&#1091;&#1091; :P</content>
+    <updated>2011-03-03T02:50:47Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/1207315009/f09bcbc7-8129-4461-9822-6e48542ceda2_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>digz6666 (Batbayar B)</name>
+      <uri>http://twitter.com/digz6666</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43073036122980352</id>
+    <published>2011-03-02T22:19:46Z</published>
+    <link type="text/html" href="http://twitter.com/Sgoettschkes/statuses/43073036122980352" rel="alternate"/>
+    <title>Ok, after one hour I can honestly say #Netbeans wins on every level... Sorry #PHPStorm, I don't know why I should pay! #PHP #IDE</title>
+    <content type="html">Ok, after one hour I can honestly say &lt;a href=&quot;http://search.twitter.com/search?q=%23Netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Netbeans');&quot;&gt;&lt;b&gt;#Netbeans&lt;/b&gt;&lt;/a&gt; wins on every level... Sorry &lt;a href=&quot;http://search.twitter.com/search?q=%23PHPStorm&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHPStorm');&quot;&gt;#PHPStorm&lt;/a&gt;, I don&amp;apos;t know why I should pay! &lt;a href=&quot;http://search.twitter.com/search?q=%23PHP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#PHP');&quot;&gt;#PHP&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23IDE&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#IDE');&quot;&gt;#IDE&lt;/a&gt;</content>
+    <updated>2011-03-02T22:19:46Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/355131555/love-music_hate-fascism_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Sgoettschkes (Sebastian G&#246;ttschkes)</name>
+      <uri>http://twitter.com/Sgoettschkes</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:43061885704208384</id>
+    <published>2011-03-02T21:35:28Z</published>
+    <link type="text/html" href="http://twitter.com/bkmorse/statuses/43061885704208384" rel="alternate"/>
+    <title>keyboard shortcut to selecting entire line you're cursor is on? #netbeans</title>
+    <content type="html">keyboard shortcut to selecting entire line you&amp;apos;re cursor is on? &lt;a href=&quot;http://search.twitter.com/search?q=%23netbeans&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#netbeans');&quot;&gt;&lt;b&gt;#netbeans&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-03-02T21:35:28Z</updated>
+    <link type="image/png" href="http://a0.twimg.com/profile_images/202682184/n500194048_2971_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>bkmorse (Brad Morse)</name>
+      <uri>http://twitter.com/bkmorse</uri>
+    </author>
+  </entry>
+
+</feed>
