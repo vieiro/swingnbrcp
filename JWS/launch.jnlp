@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="http://kenai.com/projects/swingnbrcp/sources/source/show/NBTWEETING/JWS" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>NBTWEETING</title>
+        <vendor>Antonio Vieiro</vendor>
+        <homepage href="http://www.antonioshome.net/kitchen/swingnbrcp"/>
+        <description>Standalone Swing application for searching Twitter, using NetBeans Platform UI components.</description>
+        <description kind="short">NBTWEETING</description>
+        
+        
+    <icon href="unnamed.png" kind="default"/>
+</information>
+    <update check="always"/>
+    <security>
+<all-permissions/>
+</security>
+    <resources>
+        <j2se version="1.5+"/>
+        <jar href="NBTWEETING.jar" main="true"/>
+        
+        
+    <jar href="lib/org-netbeans-swing-outline.jar"/>
+<jar href="lib/org-openide-explorer.jar"/>
+<jar href="lib/org-openide-filesystems.jar"/>
+<jar href="lib/org-openide-nodes.jar"/>
+<jar href="lib/org-openide-util-lookup.jar"/>
+<jar href="lib/org-openide-util.jar"/>
+<jar href="lib/org-openide-awt.jar"/>
+<jar href="lib/org-openide-dialogs.jar"/>
+</resources>
+    <application-desc main-class="net.antonioshome.nbtweeting.gui.NBTweetingMainFrame">
+        
+    </application-desc>
+</jnlp>
