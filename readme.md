@@ -7,6 +7,6 @@ This repository holds the source code for the tutorial [Introducing NetBeans Pla
   * [The NBTWEETING directory](https://github.com/vieiro/swingnbrcp/tree/master/NBTWEETING) contains the source code.
 
 
-Originally hosted at [Kenai](https://kenai.com/projects/swingnbrcp), this repo was migrated to [github](https://github.com/vieiro/swingnbrcp) on 2017.
+Originally hosted at [Kenai](https://kenai.com/projects/swingnbrcp), this repo was migrated to [github](https://github.com/vieiro/swingnbrcp) on february, 2017.
 
 
